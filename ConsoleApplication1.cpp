@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello Worlr!\n";
+	std::cout << "Hello Worlr!\n"; //bug should be "World"
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
